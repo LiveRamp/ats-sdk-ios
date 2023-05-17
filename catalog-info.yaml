@@ -1,0 +1,16 @@
+# BEGIN TERRAFORM MANAGED BLOCK
+"apiVersion": "backstage.io/v1alpha1"
+"kind": "Location"
+"metadata":
+  "annotations":
+    "github.com/project-slug": "LiveRamp/ats-sdk-ios"
+    "github.com/team-slug": "LiveRamp/addressability-admin"
+  "description": "LiveRamp ATS SDK for iOS"
+  "name": "ats-sdk-ios"
+  "tags":
+  - "mobile"
+  - "sdk"
+  - "ios"
+  - "swift"
+"spec": {}
+# END TERRAFORM MANAGED BLOCK  
