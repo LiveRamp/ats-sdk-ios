@@ -27,7 +27,7 @@ To install LRAtsSDK in a Swift application
 
 ## Usage
 
-Please see our [documentation](https://docs.liveramp.com/identity/en/version-1-0--ios-ats-mobile-sdk-.html).
+Please see our [documentation](https://developers.liveramp.com/authenticatedtraffic-api/docs/ats-mobile-sdk-for-ios).
 
 ## Consent Requirements
 The SDK will automatically perform a geolocation check to ensure consent is properly set for GDPR and CCPA. Learn what this means for your application below:
