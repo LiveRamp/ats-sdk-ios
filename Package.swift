@@ -13,6 +13,6 @@ let package = Package(name: "LRAts",
                             targets: ["LRAtsSDK"])
                       ],
                       targets: [
-                        .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/3.0.0/LRAtsSDK.zip", checksum: "a0365c0f397fb1edec82a007393b470e30510f9f3273f034cfcbe7c01ce46959")
+                        .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/3.1.0/LRAtsSDK.zip", checksum: "6e921edf0ad542277f2ba34908cd3a85e697c33fdb9ef95eaee4b34b390d95bc")
                       ]
 )
