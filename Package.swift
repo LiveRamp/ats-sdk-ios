@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(name: "LRAts",
                       platforms: [
-                          .iOS(.v12)
+                          .iOS(.v13)
                       ],
                       products: [
                         .library(
@@ -13,6 +13,6 @@ let package = Package(name: "LRAts",
                             targets: ["LRAtsSDK"])
                       ],
                       targets: [
-                        .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/3.2.2/LRAtsSDK.zip", checksum: "be8c618d6214565639c2ead8898b27413b5af53ec2e6aadd0a8e90602e752aa9")
+                        .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/3.2.3/LRAtsSDK.zip", checksum: "3e30d57e833adf540991ee75eb3ae7da698ca5627c5fe49f5ddda7deb5c33f38")
                       ]
 )
